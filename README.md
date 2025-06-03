@@ -2,13 +2,8 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 I'm a final-year Information Technology Engineering student at **Sai Gon University**.  
-🔬 I'm currently working on a thesis to fine-tune **PhoBERT** for **Vietnamese Named Entity Recognition (NER)**.  
-💡 I love working with **Data Analysis**, **Computer Vision**, and **NLP**.  
-🧪 I have experience working with **Kalman filters**, **IoT sensor fusion**, and **deep learning models**.  
-📫 Reach me at: **caarotnee@gmail.com**
+ 
+📫 Reach me at: **vokhanhlinh04112k3@gmail.com**
 
 ---
 
